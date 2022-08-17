@@ -207,7 +207,7 @@ note top of [Repository 1]: Peer-to-Peer
 
 ## Introduction to Git: What about other VCS?
 
-![VCS Usage](assets/images/VCS_Usage_2015-2021.svg)
+![VCS Usage](assets/images/VCS_Usage_2015-2021.svg)<!-- style="max-width: 700px; display: block; margin: auto; padding-top:50px;" -->
 
 ## Introduction to Git: Git is Flexible
 
@@ -502,13 +502,13 @@ Workspace <- "Remote Repository": git pull
 **[GitLab](https://about.gitlab.com/) is a Git-based fully integrated platform for software development that provides complete DevOps and project management solutions.**
 
 - GitLab is open source.
-- GitLab is provided by GitLab Inc., that runs [GitLab.com](https://about.gitlab.com/) on a freemium and offers a subscription service.
+- GitLab is provided by GitLab Inc., that runs [GitLab.com](https://about.gitlab.com/) on a freemium basis and offers a subscription service.
 - GitLab can be provided on premise.
 
 {{1}}
 ********************************************************************************
 
-![GitLab](./assets/images/GitLab_Repository-View.png)<!-- style="max-width: 550px; display: block; margin: auto; padding-top:50px;" -->
+![GitLab](./assets/images/GitLab_Repository-View.png)<!-- style="max-width: 700px; display: block; margin: auto; padding-top:50px;" -->
 
 ********************************************************************************
 
@@ -558,7 +558,7 @@ Subgroups are nested or hierarchical groups.
 
 ## CAU Gitlab Version Management Service: Gitlab at CAU
 
-> **The Computing Center of Kiel University centrally operates the Git service [Gitlab RZ CAU](https://cau-git.rz.uni-kiel.de/) for CAU facilities.**
+> **The Computing Centre of Kiel University centrally operates the Git service [Gitlab RZ CAU](https://cau-git.rz.uni-kiel.de/) for CAU facilities.**
 >
 > The service can be booked by working groups for research work.
 >
@@ -587,9 +587,9 @@ If you are registering for the first time, you must agree to the *Terms of Servi
 
 **Get a Project Area**
 
-The Computing Center of Kiel University sets up project groups upon application.
+The Computing Centre of Kiel University sets up project groups upon application.
 
-- Eligible for application are the heads of the facilities known to the Computing Center.
+- Eligible for application are the heads of the facilities known to the Computing Centre.
 - For each project group, one or more administrators can be defined, who are initially assigned to new project groups.
 - Within project groups, group administrators can independently
 
