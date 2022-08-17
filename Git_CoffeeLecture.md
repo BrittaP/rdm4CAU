@@ -619,6 +619,6 @@ If you want to go on learning about Git and get started in practice, have a look
 ![Questions](./assets/images/FragezeichenTyp.jpg) <!-- width="110px" align="right" -->
 
 > Time for questions and discussion!
+> 
 > We are happy about feedback and suggestions for improvement or further topics you would like to hear about.
 
-![feedback](./assets/images/feedback.png)
