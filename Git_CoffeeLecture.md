@@ -2,7 +2,7 @@
 
 author:   Central Research Data Management of Kiel University
 email:    fdm@rz.uni-kiel.de
-version:  0.1.0
+version:  1.0.0
 language: en
 narrator: UK English Female
 
@@ -92,13 +92,14 @@ Central Research Data Management, Kiel University
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://cau-git.rz.uni-kiel.de/fdm/schulungen/we-git-you-started/-/raw/main/Git_CoffeeLecture.md)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/rdm4CAU/main/Git_CoffeeLecture.md)
 >
-> [qr-code](https://liascript.github.io/course/?https://cau-git.rz.uni-kiel.de/fdm/schulungen/we-git-you-started/-/raw/main/Git_CoffeeLecture.md)
+> [qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/rdm4CAU/main/Git_CoffeeLecture.md)
 >
-> If you need help, feel free to ask us any reasonable question:
+> If you need help, feel free to ask us any reasonable question: [fdm@rz.uni-kiel.de](mailto:fdm@rz.uni-kiel.de)
 >
-> [fdm@rz.uni-kiel.de](mailto:fdm@rz.uni-kiel.de)
+> ![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
+> This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Agenda
 
@@ -619,6 +620,5 @@ If you want to go on learning about Git and get started in practice, have a look
 ![Questions](./assets/images/FragezeichenTyp.jpg) <!-- width="110px" align="right" -->
 
 > Time for questions and discussion!
-> 
+>
 > We are happy about feedback and suggestions for improvement or further topics you would like to hear about.
-
