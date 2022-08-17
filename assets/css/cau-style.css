@@ -1,0 +1,7 @@
+:root {
+  --cau-purple: 155,10,125;
+  --cau-purple-dark: 155,10,125;
+  --color-highlight-dark: var(--cau-purple-dark);
+  --color-highlight-menu: var(--cau-purple);
+  --color-highlight: var(--cau-purple);
+}
