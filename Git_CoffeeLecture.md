@@ -616,16 +616,9 @@ If you want to go on learning about Git and get started in practice, have a look
 
 ## Open Questions & Feedback
 
-**Questions or comments?
-
 ![Questions](./assets/images/FragezeichenTyp.jpg) <!-- width="110px" align="right" -->
 
 > Time for questions and discussion!
-
-## Feedback
-
-We are happy about feedback and suggestions for improvement or further topics you would like to hear about.
-
----
+> We are happy about feedback and suggestions for improvement or further topics you would like to hear about.
 
 ![feedback](./assets/images/feedback.png)
