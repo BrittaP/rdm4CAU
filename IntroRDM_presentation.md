@@ -105,7 +105,7 @@ draw("@0", `@input`)
 >
 >**Disclaimer**: Please note that you are leaving the CAU pages once you open this presentation in your brwoser. This presentation includes links to other third party websites and services. When you click on these links you will leave this presentation and will be redirected to respective another site. These sites are not under our control.
 >
->RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies, so please read third party privacy and security policies closely. 
+>RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies, so please read third party privacy and security policies closely.
 >
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
@@ -119,7 +119,6 @@ draw("@0", `@input`)
 > ____________________________________________
 >
 > ![ccby](images/ccby.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/) with exception of the used material from other copyright holders.
-
 
 
 ## Please be nice!
@@ -226,12 +225,12 @@ Let us have a look at our workload for today:
 ## Warm up!
 
 ![image](images\Icon_Puzzel__web.jpg)<!--
-style="width: 15%; max-width: 600px; float:right"
+style="width: 20%; max-width: 800px; float:right"
 title="puzzle"
 onclick="alert('Let´s play!');"
 -->
 
->Let us play a game…
+>**Let us play a game…**
 >
 >Hide your camera (use a sticker or your finger).
 >
@@ -336,15 +335,24 @@ onclick="alert('Let´s play!');"
 We would like to know a little bit more about your expectations and your fears regarding this workshop.
 
 > **Group work**:
+>![image](images/kurzberichte.png)<!--
+style="width: 20%; max-width: 800px; float:right"
+title="working"
+onclick="alert('Group work');"
+-->
 >
 > Collect your ***hopes/wishes***<!-- style='color: #9a047f' --> and your ***fears***<!-- style='color: #9a047f' --> regarding this workshop, using oncoo cards.
 >
 > https://www.oncoo.de/0fou
 
 ### Review Expectations
-<iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-![Bild](images\FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+<iframe src="https://www.oncoo.de/t/jzvb" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+---
+
+<iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
+
 
 ## Research data and research data management
 
@@ -360,7 +368,9 @@ onclick="alert('What do you think?');"
 >
 >**Let's collect together!**
 >
-> Enter words that you associate with the term "research data management". You may enter as many words as you like: https://answergarden.ch/3005403
+> Enter words that you associate with the term "research data management".
+>
+>You may enter as many words as you like: https://answergarden.ch/3005403
 
 ---
 
@@ -397,13 +407,19 @@ What is research data management?
 
 ******************
 
-{{4-6}}
+{{3-6}}
 What do you think is the benefit of good research data management?
 ---
 
-{{5-6}}
+{{4-5}}
 ***************
+
 >**Think-Pair-Share**
+>![image](images/kurzberichte.png)<!--
+style="width: 20%; max-width: 800px; float:right"
+title="working"
+onclick="alert('Group work');"
+-->
 >
 >You will have some minutes with your partner.  Please discuss!
 >
@@ -413,7 +429,7 @@ What do you think is the benefit of good research data management?
 
 ****************
 
-{{6-7}}
+{{5-6}}
 ********************
 The benefits of good research data management are...
 ---
@@ -542,8 +558,6 @@ Find your workspace here: https://miro.com/app/board/uXjVPvwAFbI=/
 
 -> Are there any deviations?
 
-You´ll have 15 Minutes.
-
 ************
 
 ## Data organisation
@@ -631,7 +645,8 @@ Which examples are following a good naming convention?
 {{0-1}}
 ********************************************************************************
 
-<center><img src="images/versioning-geek-and-poke.jpg" alt="which version to choose?"></center>
+<center><img src="images/versioning-geek-and-poke.jpg" alt="which version to choose?" width="350"></center>
+
 
 
 ********************************************************************************
@@ -743,15 +758,15 @@ onclick="alert('Individual work');"
 {{0-2}}
 *********
 
-![image](images\kurzberichte.png)<!--
+>**Group work**:
+>
+>![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="puzzle"
 onclick="alert('Let´s work together!');"
 -->
-
->**Group work**:
 >
->You are working in a research groupgroup working on the ecology of forest stands and take over data from a previous project: [av_D.csv](http://av_D.csv)
+>You are working in a research group working on the ecology of forests and take over data from a previous project: <A HREF="sources/average_d.xlsx" download>average_d.xlsx</A>
 >
 >* Speculate what kind of data it could be.
 >
@@ -766,14 +781,11 @@ onclick="alert('Let´s work together!');"
 {{1-2}}
 *********
 
-![image](images/DataDocumentation.png)<!--
+![image](images/datadocumentation.png)<!--
 style="width: 20%; max-width: 800px; float:right"
-title="puzzle"
-onclick="alert('Let´s work together!');"
 -->
 
 **A good data documentation should include**
----
 
 - Information on the collection of data
 
@@ -804,9 +816,9 @@ onclick="alert('Let´s work together!');"
 {{2-4}}
 ********************************************************************************
 
-**Short research assignment**:
-
-Which guideline of the **DFG Guidelines for Good Scientific Practice** deals with ***documentation***?
+>**Short research assignment**:
+>
+>Which guideline of the **DFG Guidelines for Good Scientific Practice** deals with ***documentation***?
 
 ********************************************************************************
 
@@ -832,7 +844,7 @@ Which guideline of the **DFG Guidelines for Good Scientific Practice** deals wit
 {{2-3}}
 ***********
 
-![image](images/Doi.png "The DOI® System ISO 26324") <!--
+![image](images/doi.png "The DOI® System ISO 26324") <!--
 style="width: 40%" -->
 
 ***********
@@ -846,7 +858,7 @@ style="width: 40%" -->
 
 {{4-5}}
 *******************
-![image](images/july.jpg)
+![image](images/calender.png)
 
 *******************
 
@@ -858,7 +870,7 @@ style="width: 40%" -->
 
 {{6-7}}
 *************
-![image](images/ror.jpg)
+![image](images/ROR.jpg)
 
 ![image](images/dwd.jpg) <!--
 style="width: 40%" -->
@@ -993,10 +1005,8 @@ Origin, Location and Meaning of Data
 
 {{0-1}}
 *********
-![image](images/DataDocumentation.png)<!--
+![image](images/datadocumentation.png)<!--
 style="width: 20%; max-width: 800px; float:right"
-title="puzzle"
-onclick="alert('Data documentation');"
 -->
 
 - Data about data
@@ -1139,7 +1149,7 @@ How do your store your (sensitive) data?
 >***An important goal of structured research data management is to keep data accessible, reusable and verifiable in the long term and independent of individuals.***
 
 ![Bild](images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")<!--
-style="width: 60%; max-width: 600px; align:center"
+style="width: 50%; max-width: 600px; align:center"
 title="Is your data FAIR?"
 onclick="alert('How FAIR ist your data?');"
 -->
@@ -1393,7 +1403,7 @@ Example:
 
 >__Individual work__
 >![image](images/working.png)<!--
-style="width: 20%; max-width: 800px; float:right"
+style="width: 15%; max-width: 400px; float:right"
 title="working"
 onclick="alert('Individual work');"
 -->
@@ -1615,7 +1625,7 @@ onclick="alert('Individual work');"
 
 <div style="float:right; width:20%;">
 
-![image](images/dfg.png)
+![image](images/DFG.png)
 
 </div>
 
@@ -1663,7 +1673,7 @@ onclick="alert('Individual work');"
 
   <div style="float:right; width:20%;">
 
-  ![image](images\logo-ec--en.svg)
+  ![image](images/eu_funded_en.jpg)
 
   </div>
 
