@@ -118,7 +118,7 @@ Central Research Data Management of Kiel University
 >
 > ____________________________________________
 >
-> ![ccby](images\ccby.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/) with exception of the used material from other copyright holders.
+> ![ccby](images/ccby.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/) with exception of the used material from other copyright holders.
 
 
 
