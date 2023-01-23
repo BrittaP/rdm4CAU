@@ -336,7 +336,7 @@ We would like to know a little bit more about your expectations and your fears r
 
 > **Group work**:
 >![image](images/kurzberichte.png)<!--
-style="width: 20%; max-width: 800px; float:right"
+style="width: 15%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Group work');"
 -->
