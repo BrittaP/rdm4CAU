@@ -872,7 +872,7 @@ style="width: 40%" -->
 *************
 ![image](images/ROR.jpg)
 
-![image](images/dwd.jpg) <!--
+![image](images/dwd.png) <!--
 style="width: 40%" -->
 
 *******************
