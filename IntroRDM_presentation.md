@@ -107,7 +107,6 @@ Central Research Data Management of Kiel University
 >
 >RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies, so please read third party privacy and security policies closely. 
 >
->By clicking on the CONTINUE button below, you acknowledge the above statement and will be taken to the linked site. If you want to remain on Klein Tools' site, select the CANCEL button.
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
