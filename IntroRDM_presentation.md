@@ -97,7 +97,7 @@ draw("@0", `@input`)
 
 -->
 
-# Welcome
+# Introduction to Research Data Management
 
 >**Thilo Paul-Stüve, Britta Petersen**
 >
