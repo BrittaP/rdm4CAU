@@ -99,11 +99,11 @@ draw("@0", `@input`)
 
 # Welcome
 
-**Britta Petersen, Thilo Paul-Stüve**
-
-Central Research Data Management of Kiel University
-
->**Disclaimer**:Please note that you are leaving the CAU pages once you open this presentation in your brwoser. This presentation includes links to other third party websites and services. When you click on these links you will leave this presentation and will be redirected to respective another site. These sites are not under our control.
+>**Thilo Paul-Stüve, Britta Petersen**
+>
+>Central Research Data Management of Kiel University
+>
+>**Disclaimer**: Please note that you are leaving the CAU pages once you open this presentation in your brwoser. This presentation includes links to other third party websites and services. When you click on these links you will leave this presentation and will be redirected to respective another site. These sites are not under our control.
 >
 >RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies, so please read third party privacy and security policies closely. 
 >
