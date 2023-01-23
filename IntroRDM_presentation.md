@@ -185,7 +185,7 @@ At the end of the workshop you…
 </div>
 
 <div style="float:right; width:30%;">
-  <img src="images/2022-09-27_Zielscheibe-mit-Pfeil.jpg" alt="targets">
+  <img src="images/Zielscheibe-mit-Pfeil.png" alt="targets">
   <sub><span style="text-align: right;">Source: Cleo Michelsen</span></sub>
 </div>
 
