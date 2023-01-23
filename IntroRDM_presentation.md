@@ -103,6 +103,11 @@ draw("@0", `@input`)
 
 Central Research Data Management of Kiel University
 
+>**Disclaimer**:Please note that you are leaving the CAU pages once you open this presentation in your brwoser. This presentation includes links to other third party websites and services. When you click on these links you will leave this presentation and will be redirected to respective another site. These sites are not under our control.
+>
+>RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies, so please read third party privacy and security policies closely. 
+>
+>By clicking on the CONTINUE button below, you acknowledge the above statement and will be taken to the linked site. If you want to remain on Klein Tools' site, select the CANCEL button.
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
@@ -222,7 +227,7 @@ Let us have a look at our workload for today:
 ## Warm up!
 
 ![image](images\Icon_Puzzel__web.jpg)<!--
-style="width: 20%; max-width: 800px; float:right"
+style="width: 15%; max-width: 600px; float:right"
 title="puzzle"
 onclick="alert('Let´s play!');"
 -->
