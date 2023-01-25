@@ -1444,7 +1444,7 @@ Selection of the license depends on the type of data:
 
 {{2-3}}
 ******************
-> CC-Licenses
+> ODC-Licenses
 
 ![CC_Licenses](images/odc-licences.png) <!-- width="500px" -->
 
