@@ -1653,18 +1653,21 @@ onclick="alert('Individual work');"
 <div style="float:left; width:60%;">
 
  - Framework Programme for Research and Technological Development of the European Comission
-
+ 
   - [Horizon 2020 Online Manual – Data Management](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
 
   - [Horizon Europe – Programme Guide – Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf#page=38)
 
   - [Horizon Europe – Data Management Plan Template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx)
 
+    
 - Open access to research data is applicable by default
 
   - as open as possible, as closed as necessary
+
     
 - Make research data findable, accessible, interoperable and re-usable (FAIR)
+    
 
 - DMP should include information on:
 
