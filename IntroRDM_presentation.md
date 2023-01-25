@@ -97,13 +97,13 @@ draw("@0", `@input`)
 
 -->
 
-# Introduction to Research Data Management
+# Welcome
 
 >**Thilo Paul-Stüve, Britta Petersen**
 >
 >Central Research Data Management of Kiel University
 >
->**Disclaimer**: Please note that you are leaving the CAU pages once you open this presentation in your brwoser. This presentation includes links to other third party websites and services. When you click on these links you will leave this presentation and will be redirected to respective another site. These sites are not under our control.
+>**Disclaimer**: Please note that you are leaving the CAU pages once you open this presentation in your browser. This presentation includes links to other third party websites and services. When you click on these links you will leave this presentation and will be redirected to the respective another websites. These sites are not under our control.
 >
 >RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies, so please read third party privacy and security policies closely.
 >
@@ -336,7 +336,7 @@ We would like to know a little bit more about your expectations and your fears r
 
 > **Group work**:
 >![image](images/kurzberichte.png)<!--
-style="width: 15%; max-width: 800px; float:right"
+style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Group work');"
 -->
@@ -584,13 +584,13 @@ Find your workspace here: https://miro.com/app/board/uXjVPvwAFbI=/
 
   - Think about your preferences in ___sorting!___
 
-- Follow ***ISO 8601*** for dates and times
+- Follow [***ISO 8601***](https://en.wikipedia.org/wiki/ISO_8601) for dates and times
 
   - Date & time, e.g., YYYYMMDDThhmmss±hhmm
 
   - Date, e.g., YYYY-MM-DD
 
-- Versions? Use the semantic versioning scheme (Major.Minor.Patch), e.g., 2.0.0
+- Versions? Use the [***semantic versioning scheme***](https://semverdoc.org/) (Major.Minor.Patch), e.g., 2.0.0
 
 - Avoid of blanks and special characters  “🦄”
 
@@ -774,7 +774,7 @@ onclick="alert('Let´s work together!');"
 >
 >* Apart from the data itself, what information do you need to be able to work with a dataset?
 >
->* What do you notice about the data quality?
+>* What do you notice in regard of data quality?
 
 *********
 
@@ -872,7 +872,7 @@ style="width: 40%" -->
 *************
 ![image](images/ROR.jpg)
 
-![image](images/dwd.png) <!--
+![image](images/dwd.jpg) <!--
 style="width: 40%" -->
 
 *******************
@@ -1443,6 +1443,14 @@ Selection of the license depends on the type of data:
 *********************
 
 {{2-3}}
+******************
+> CC-Licenses
+
+![CC_Licenses](images/odc-licences.png) <!-- width="500px" -->
+
+*********************
+
+{{3-4}}
 ************
 **Take care!**
 
@@ -1673,7 +1681,7 @@ onclick="alert('Individual work');"
 
   <div style="float:right; width:20%;">
 
-  ![image](images/eu_funded_en.jpg)
+  ![image](images/European-Commission-logo.png)
 
   </div>
 
@@ -1760,11 +1768,11 @@ Principle 3
 
 {{1-2}}
 ************
-- Use documented naming and versioning conventions
-
-- document changes
-
-- think about metadata necessary to understand your data
+>- Use documented naming and versioning conventions
+>
+>- document changes
+>
+>- think about metadata necessary to understand your data
 
 *************
 
@@ -1772,15 +1780,15 @@ Principle 3
 
 {{2-3}}
 ************
-  - __Generic and open standard file formats__ last longer than proprietary file formats
-
-    - Open Document Format (ODF)
-
-    - Comma separated values (CSV)
-
-    - Raw text files (TXT, MD)
-
-  - __Data container formats__ for __exchange, archival and publication__, e.g., [BagIt](https://tools.ietf.org/html/rfc8493), [Frictionless Data](https://frictionlessdata.io/)
+>  - __Generic and open standard file formats__ last longer than proprietary file formats
+>
+>    - Open Document Format (ODF)
+>
+>    - Comma separated values (CSV)
+>
+>    - Raw text files (TXT, MD)
+>
+>  - __Data container formats__ for __exchange, archival and publication__, e.g., [BagIt](https://tools.ietf.org/html/rfc8493), [Frictionless Data](https://frictionlessdata.io/)
 
 *************
 
@@ -1788,17 +1796,17 @@ Principle 3
 
 {{3-4}}
 **********
-  - __Central infrastructure with backup__ for storage
-
-  - Desktop and laptop for work on current research data only
-
-  - Systematic file and folder naming and hierarchy
-
-  - Provide _Readme_ files
-
-  - Data Management Middleware for handling data and metadata, e.g., [iRODS](https://irods.org/)
-
-  - DFG [Guidelines for Safeguarding Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html)  require 10 years of preservation at least!
+>  - __Central infrastructure with backup__ for storage
+>
+>  - Desktop and laptop for work on current research data only
+>
+>  - Systematic file and folder naming and hierarchy
+>
+>  - Provide _Readme_ files
+>
+>  - Data Management Middleware for handling data and metadata, e.g., [iRODS](https://irods.org/)
+>
+>  - DFG [Guidelines for Safeguarding Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html)  require 10 years of preservation at least!
 
 ************
 
@@ -1806,21 +1814,21 @@ Principle 3
 
 {{4-5}}
 ************
-  - Discipline-specific Repositories with specific metadata support
-
-    - [re3data: Registry of Research Repositories](https://www.re3data.org/)
-
-  - National or international initiatives
-
-    - NFDI (work in progress)
-
-    - [European Open Science Cloud Services](https://marketplace.eosc-portal.eu/services/c/sharing-discovery)
-
-  - Institutional Data Repository (work in progress)
-
-  - Generic Repositories
-
-    - [Zenodo](https://zenodo.org/)
+>  - Discipline-specific Repositories with specific metadata support
+>
+>    - [re3data: Registry of Research Repositories](https://www.re3data.org/)
+>
+>  - National or international initiatives
+>
+>    - NFDI (work in progress)
+>
+>    - [European Open Science Cloud Services](https://marketplace.eosc-portal.eu/services/c/sharing-discovery)
+>
+>  - Institutional Data Repository (work in progress)
+>
+>  - Generic Repositories
+>
+>    - [Zenodo](https://zenodo.org/)
 
 ************
 
@@ -1828,9 +1836,9 @@ Principle 3
 
 {{5-6}}
 **************
-  - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
-
-- [Open Data Commons](https://opendatacommons.org/): databases, raw data
+>  - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
+>
+>- [Open Data Commons](https://opendatacommons.org/): databases, raw data
 
 **********
 
@@ -1838,7 +1846,7 @@ Principle 3
 
 >**Nearly done!**
 >![image](images/FragezeichenTyp.jpg) <!--
-style="width: 20%; max-width: 800px; float:right"
+style="width: 10%; max-width: 800px; float:right"
 title="puzzle"
 onclick="alert('Questions?');"
 -->
