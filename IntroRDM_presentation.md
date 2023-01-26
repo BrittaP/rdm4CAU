@@ -347,11 +347,7 @@ onclick="alert('Group work');"
 
 ### Review Expectations
 
-<iframe src="https://www.oncoo.de/t/jzvb" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
----
-
-<iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
+<iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
 ## Research data and research data management
