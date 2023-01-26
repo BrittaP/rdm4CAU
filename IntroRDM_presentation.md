@@ -470,6 +470,10 @@ onclick="alert('Let´s work together!');"
 >https://zumpad.zum.de/p/2023-01-26_research-data_G3
 >
 >https://zumpad.zum.de/p/2023-01-26_research-data_G4
+>
+>https://zumpad.zum.de/p/2023-01-26_research-data_G5
+>
+>https://zumpad.zum.de/p/2023-01-26_research-data_G6
 
 ---
 
@@ -775,6 +779,8 @@ onclick="alert('Let´s work together!');"
 >* Apart from the data itself, what information do you need to be able to work with a dataset?
 >
 >* What do you notice in regard of data quality?
+>
+> Use Miro-Board to take notes: https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764544387681232&cot=14
 
 *********
 
