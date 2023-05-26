@@ -99,7 +99,7 @@ draw("@0", `@input`)
 
 # Welcome
 
->**Thilo Paul-Stüve, Britta Petersen**
+>**Thilo Paul-Stüve, Britta Petersen, Linda Zollitsch**
 >
 >Central Research Data Management of Kiel University
 >
@@ -110,7 +110,7 @@ draw("@0", `@input`)
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/raw/main/course.md)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/rdm4CAU/main/IntroRDM_presentation.md#1)
 >
 > If you need help, feel free to ask us any questions:
 >
@@ -120,6 +120,7 @@ draw("@0", `@input`)
 >
 > ![ccby](images/ccby.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/) with exception of the used material from other copyright holders.
 
+<div style="page-break-after: always;"></div>
 
 ## Please be nice!
 
@@ -154,6 +155,8 @@ Some rules for today:
     <sub style="text-align: right;">Source: Pixabay</sub>
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ## Goals today
 At the end of the workshop you…
 
@@ -162,9 +165,9 @@ At the end of the workshop you…
 
 - have a basic idea of the general concept of RDM and know some important related terms.
 
-- can describe what research data is and know the research data lifecycle.
+- can describe what research data are and know the research data lifecycle.
 
-- can explain the importance of documentation and know what metadata is.
+- can explain the importance of documentation and know what metadata are.
 
 - can identify and assess data formats.
 
@@ -189,6 +192,8 @@ At the end of the workshop you…
   <sub><span style="text-align: right;">Source: Cleo Michelsen</span></sub>
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ## Agenda
 
 Let us have a look at our workload for today:
@@ -201,10 +206,10 @@ Let us have a look at our workload for today:
 - Research data lifecycle
 - Data organisation
 - Documentation & metadata
-- Data formats
 
   ***LUNCH BREAK***
 
+- Data formats
 - Back up & long-term storage
 - FAIR principles and Open X
 - Data publication
@@ -221,6 +226,7 @@ Let us have a look at our workload for today:
   <sub><span style="text-align: right;">Source: Pixabay</span></sub>
 </div>
 
+<div style="page-break-after: always;"></div>
 
 ## Warm up!
 
@@ -236,7 +242,7 @@ onclick="alert('Let´s play!');"
 >
 >I will read statements to you.
 >
->Each time you can agree with the statement show yourself and waive.
+>Each time you can agree with the statement show yourself and wave.
 >
 >That´s it !
 
@@ -292,7 +298,7 @@ onclick="alert('Let´s play!');"
 {{8-9}}
 ********************************************************************************
 
-><p style="color:#9a047f">I have a pet (or more that one).</p>
+><p style="color:#9a047f">I have a pet (or more than one).</p>
 
 ********************************************************************************
 
@@ -331,6 +337,8 @@ onclick="alert('Let´s play!');"
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ## Expectations
 We would like to know a little bit more about your expectations and your fears regarding this workshop.
 
@@ -345,10 +353,13 @@ onclick="alert('Group work');"
 >
 > https://www.oncoo.de/0fou
 
+<div style="page-break-after: always;"></div>
+
 ### Review Expectations
 
-<iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
 
+<div style="page-break-after: always;"></div>
 
 ## Research data and research data management
 
@@ -377,6 +388,8 @@ onclick="alert('What do you think?');"
 
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ### Research Data Management
 
@@ -410,20 +423,22 @@ What do you think is the benefit of good research data management?
 {{4-5}}
 ***************
 
->**Think-Pair-Share**
+>**Let us discuss**
 >![image](images/kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Group work');"
 -->
 >
->You will have some minutes with your partner.  Please discuss!
+>You will have some minutes to think about it.
 >
 >- What might be the benefit of research data management?
 >
->Share your thoughts with us when you are back!
+>Share your thoughts with us!
 
 ****************
+
+<div style="page-break-after: always;"></div>
 
 {{5-6}}
 ********************
@@ -444,6 +459,8 @@ The benefits of good research data management are...
 - …
 ****************
 
+<div style="page-break-after: always;"></div>
+
 ### Research Data
 
 >**Group work**:
@@ -459,19 +476,17 @@ onclick="alert('Let´s work together!');"
 >
 >Please use the following pads to take notes during break out session:
 >
->https://zumpad.zum.de/p/2023-01-26_research-data_G1
+>https://zumpad.zum.de/p/Research-data_G1
 >
->https://zumpad.zum.de/p/2023-01-26_research-data_G2
+>https://zumpad.zum.de/p/Research-data_G2
 >
->https://zumpad.zum.de/p/2023-01-26_research-data_G3
+>https://zumpad.zum.de/p/Research-data_G3
 >
->https://zumpad.zum.de/p/2023-01-26_research-data_G4
->
->https://zumpad.zum.de/p/2023-01-26_research-data_G5
->
->https://zumpad.zum.de/p/2023-01-26_research-data_G6
+>https://zumpad.zum.de/p/Research-data_G4
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 {{1}}
 **********
@@ -500,6 +515,7 @@ What are research data?
 
 **************
 
+<div style="page-break-after: always;"></div>
 
 ### Examples for Research Data
 ![Bild](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
@@ -520,7 +536,40 @@ What are research data?
 - Topography data
 - Transcripts
 
+<div style="page-break-after: always;"></div>
 
+## Research data lifecycle
+
+<center>
+{{0-1}}
+************
+![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
+
+
+************
+</center>
+
+<div style="page-break-after: always;"></div>
+
+{{1}}
+************
+
+![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg) <!-- width="300px" align="right" -->
+
+Individual work:
+---
+
+Think about your own PhD project and add keywords to the stations of the research data lifecycle that describe what steps and procedures at each station are relevant to your research data.
+
+Find your workspace at the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764554868302384&cot=14)
+
+-> Does this research data lifecycle fit to your research project?
+
+-> Are there any deviations?
+
+************
+
+<div style="page-break-after: always;"></div>
 
 ## BREAK
 <center>
@@ -531,34 +580,7 @@ What are research data?
 
 </center>
 
-## Research data lifecycle
-
-<center>
-{{0-1}}
-************
-![RD-Lifecyrcle](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
-
-
-************
-</center>
-
-{{1}}
-************
-
-![RD-Lifecyrcle](images\FDM_Zyklus_klein_ohneText.jpg) <!-- width="300px" align="right" -->
-
-Individual work:
----
-
-Think about your own PhD project and add keywords to the stations of the research data lifecycle that describe what steps and procedures at each station are relevant to your research data.
-
-Find your workspace here: https://miro.com/app/board/uXjVPvwAFbI=/
-
--> Does this research data lifecycle fit to your research project?
-
--> Are there any deviations?
-
-************
+<div style="page-break-after: always;"></div>
 
 ## Data organisation
 
@@ -572,6 +594,7 @@ Find your workspace here: https://miro.com/app/board/uXjVPvwAFbI=/
 <P><SMALL>https://xkcd.com/1459. Shared under CC-BY-NC License</SMALL></P>
 </div>
 
+<div style="page-break-after: always;"></div>
 
 ### Organize your Files
 
@@ -598,6 +621,8 @@ Find your workspace here: https://miro.com/app/board/uXjVPvwAFbI=/
 
   -  Readme.md
 
+<div style="page-break-after: always;"></div>
+
 ### Examples for Naming Conventions
 
 {{0-1}}
@@ -605,7 +630,10 @@ Find your workspace here: https://miro.com/app/board/uXjVPvwAFbI=/
 
 **Example for a folder hierarchy**
 
-![Bild](images/Abb_OrdnerstrukturArchproject_2022_bp.png)<!-- width="350px" -->
+<center>
+  <img src="images/Abb_OrdnerstrukturArchproject_2022_bp.png" alt="example folder hirarchy">
+    <sub style="text-align: right;">Provided by Oliver Nakoinz</sub>
+</center>
 
 ********************************************************************************
 
@@ -619,6 +647,8 @@ Find your workspace here: https://miro.com/app/board/uXjVPvwAFbI=/
 >Rebel-Hunting\_Interview\_DS-1-Orbital-Battle-Station\_Organa\_1976-05-25.mp4
 
 ****************************************
+
+<div style="page-break-after: always;"></div>
 
 ### Which one is a good name?
 
@@ -639,6 +669,7 @@ Which examples are following a good naming convention?
 - Tagung\_Digitale\_Wissenschaft.pdf
 - 647749157 .pdf
 
+<div style="page-break-after: always;"></div>
 
 ### Version Control
 
@@ -646,8 +677,6 @@ Which examples are following a good naming convention?
 ********************************************************************************
 
 <center><img src="images/versioning-geek-and-poke.jpg" alt="which version to choose?" width="350"></center>
-
-
 
 ********************************************************************************
 
@@ -686,6 +715,8 @@ Which examples are following a good naming convention?
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{2-3}}
 ********************************************************************************
 
@@ -700,28 +731,37 @@ Which examples are following a good naming convention?
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{3-4}}
 ********************************************************************************
 **Example for Version Information within a document:**
-![Bild](images/versionsdoku-beispiel-rda_2.png)
+
+<img src="images/versionsdoku-beispiel-rda_2.png" alt="Version Information inside a document">
+
+Have a look here: [Principles and best practices in data versioning for all data sets big and small](https://www.rd-alliance.org/group/data-versioning-wg/outcomes/principles-and-best-practices-data-versioning-all-data-sets-big)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{4}}
 ********************************************************************************
 
 **Example for a documented versioning scheme:**
 
-![Bild](images/OstData_Versionierungsschema.png)
+<img src="images/OstData_Versionierungsschema.png" alt="Beispiel Versionierungschema">
 
-https://zenodo.org/record/6076538#.Y4pE63bMJPa
+Have a look here: [Zenodo](https://zenodo.org/record/6076538#.Y4pE63bMJPa)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ### Develop a naming convention
 
 >__Individual work or group work for people working on the same project__
->![image](images/working.png)<!--
+>![image](images\working.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Individual work');"
@@ -741,19 +781,11 @@ onclick="alert('Individual work');"
 >
 >5. the versioning scheme, if applicable
 >
->Create an own zumpad or use your working space on the miro-Board to take notes.
+>Use your workspace on the miro-Board to take notes.
 
-## BREAK
-<center>
+<div style="page-break-after: always;"></div>
 
-**Have a break!**
-
-![Breaktime](images/break.png)
-
-</center>
-
-
-# Data documentation
+## Data documentation
 
 {{0-2}}
 *********
@@ -762,7 +794,7 @@ onclick="alert('Individual work');"
 >
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
-title="puzzle"
+title="group-work"
 onclick="alert('Let´s work together!');"
 -->
 >
@@ -775,45 +807,55 @@ onclick="alert('Let´s work together!');"
 >* Apart from the data itself, what information do you need to be able to work with a dataset?
 >
 >* What do you notice in regard of data quality?
->
-> Use Miro-Board to take notes: https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764544387681232&cot=14
 
 *********
+
+<div style="page-break-after: always;"></div>
 
 {{1-2}}
 *********
 
-![image](images/datadocumentation.png)<!--
-style="width: 20%; max-width: 800px; float:right"
--->
+<div style="float:left; width:60%;">
+  <p>
 
-**A good data documentation should include**
+  **A good data documentation should include**
 
-- Information on the collection of data
+  - Information on the collection of data
 
-    - Methods, units, time periods, locations, technique used, etc.
+      - Methods, units, time periods, locations, technique used, etc.
 
-- Structure of the data and their mutual relationships
+  - Structure of the data and their mutual relationships
 
-- Explanation of variables, labels and codes
+  - Explanation of variables, labels and codes
 
-- Differences between different data set versions
+  - Differences between different data set versions
 
-- Measures for data cleaning
+  - Measures for data cleaning
 
-- Information on access and terms of use
+  - Information on access and terms of use
 
-    - Licensing
+      - Licensing
 
-- Ideal world
+  - Ideal world
 
-    - Description of the research undertaking
+      - Description of the research undertaking
 
-      - Goals
+        - Goals
 
-    - Hypotheses
+      - Hypotheses
+
+</p>
+
+
+</div>
+
+<div style="float:right; width:40%;">
+  <img src="images\datadocumentation.png" alt="figures hugging">
+</div>
 
 **************
+
+<div style="page-break-after: always;"></div>
 
 {{2-4}}
 ********************************************************************************
@@ -836,6 +878,7 @@ style="width: 20%; max-width: 800px; float:right"
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
 
 ### Understanding Data
 <div style="float:left; width:30%;">
@@ -846,36 +889,45 @@ style="width: 20%; max-width: 800px; float:right"
 {{2-3}}
 ***********
 
-![image](images/doi.png "The DOI® System ISO 26324") <!--
-style="width: 40%" -->
+<div style="width:40%;">
+  <img src="images/doi_logo.jpg" alt="doi">
+    <sub style="text-align: right;">The DOI® System ISO 26324</sub>
+</div>
 
 ***********
 
 {{3-4}}
 ******************
 
-![image](images/kelvin.png "Temperature in Kelvin 364,07 K ≈ 42,6º C")
+<div style="width:50%;">
+  <img src="images/kelvin.png" alt="kelvin">
+    <sub style="text-align: right;">Temperature in Kelvin 364,07 K ≈ 42,6º C</sub>
+</div>
 
 ******************
 
 {{4-5}}
 *******************
-![image](images/calender.png)
+
+<img src="images/calender.png" alt="calender">
 
 *******************
 
 {{5-6}}
 *******************
-![image](images/wetterwarte.png)
+
+<img src="images/wetterwarte.png" alt="wetterwarte">
 
 *******************
 
 {{6-7}}
 *************
-![image](images/ROR.jpg)
 
-![image](images/dwd.jpg) <!--
-style="width: 40%" -->
+<img src="images/ROR.jpg" alt="ROR">
+
+---
+
+<img src="images/dwd.png" alt="dwd logo">
 
 *******************
 
@@ -992,22 +1044,29 @@ Origin, Location and Meaning of Data
 > - **Description**: Air temperature measurement at the weather station Lingen, Germany, on 29 July 2019 in Kelvin
 **************
 
+<div style="page-break-after: always;"></div>
+
 {{8-9}}
 *************
 **Traceability**
 
-![image](images\traceability.png)
+<div style="width:100%;">
+  <img src="images/traceability.png" alt="figures hugging">
+    <sub style="text-align: right;"></sub>
+</div>
+
 
 *****************
 
 </div>
 
+<div style="page-break-after: always;"></div>
 
 ### Metadata
 
 {{0-1}}
 *********
-![image](images/datadocumentation.png)<!--
+![image](images/datadocumentation.png) <!--
 style="width: 20%; max-width: 800px; float:right"
 -->
 
@@ -1037,11 +1096,13 @@ style="width: 20%; max-width: 800px; float:right"
 
 *******
 
+<div style="page-break-after: always;"></div>
+
 {{1-2}}
 **************
 
 >**Individual work**:
->![image](images/working.png)<!--
+>![image](images/working.png) <!--
 style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Data documentation');"
@@ -1056,6 +1117,20 @@ onclick="alert('Data documentation');"
 
 
 **************
+
+<div style="page-break-after: always;"></div>
+
+## BREAK
+
+<center>
+
+**Have a break!**
+
+![Breaktime](images/break.png)
+
+</center>
+
+<div style="page-break-after: always;"></div>
 
 ## File formats
 >**Partner work**:
@@ -1073,7 +1148,9 @@ onclick="alert('Let´s work together!');"
 > * What kind of software is needed to read it?
 > * Anything special to consider?
 >
->https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764543971666820&cot=14
+>Use the miro-Bord to take notes: https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764543971666820&cot=14
+
+<div style="page-break-after: always;"></div>
 
 ### Choosing file formats
 
@@ -1093,17 +1170,17 @@ onclick="alert('Let´s work together!');"
 | Generic      |  XML, JSON, RDF |              |                 |
 | Container    | Bagit, Frictionless, Data Package| ZIP, TAR |      |
 
+<div style="page-break-after: always;"></div>
 
 ## Back up & long-term storage
 
 {{0}}
 Where do you store your data?
 ---
-![image](images/backup.png)<!--
-style="width: 30%; max-width: 800px; float:right"
-title="backup"
-onclick="alert('No back up? No mercy!');"
--->
+
+<div style="float:right; width:40%;">
+  <img src="images/backup.png" alt="No back up? No mercy!">
+</div>
 
 
 {{1}}
@@ -1132,6 +1209,8 @@ How do your store your (sensitive) data?
 
 *****************
 
+<div style="page-break-after: always;"></div>
+
 ### Back up vs. long-term storage
 
 | Back up                                                                          | Long-term storage             |
@@ -1142,6 +1221,7 @@ How do your store your (sensitive) data?
 |                                                                                  | Long-term storage             |
 |                                                                                  | Searchability                 |
 
+<div style="page-break-after: always;"></div>
 
 ## FAIR Data Principles
 
@@ -1150,19 +1230,22 @@ How do your store your (sensitive) data?
 
 >***An important goal of structured research data management is to keep data accessible, reusable and verifiable in the long term and independent of individuals.***
 
-![Bild](images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")<!--
-style="width: 50%; max-width: 600px; align:center"
-title="Is your data FAIR?"
-onclick="alert('How FAIR ist your data?');"
--->
+<div style="width:50%;">
+  <img src="images/fair2.jpg" alt="targets">
+  <sub><span style="text-align: right;">Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021)</span></sub>
+</div>
 
 ****************
+
+<div style="page-break-after: always;"></div>
 
 {{1}}
 >**F**indable
 
 {{2-3}}
 ****************
+The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.
+
 F1. (Meta)data are assigned a globally unique and persistent identifier
 
 F2. Data are described with rich metadata (defined by R1 below)
@@ -1178,13 +1261,15 @@ F4. (Meta)data are registered or indexed in a searchable resource
 
 {{3-4}}
 ***********************
-F1. (Meta)data are assigned a globally unique and persistent identifier
+Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorisation.
 
-F2. Data are described with rich metadata (defined by R1 below)
+A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
 
-F3. Metadata clearly and explicitly include the identifier of the data they describe
+A1.1 The protocol is open, free, and universally implementable
 
-F4. (Meta)data are registered or indexed in a searchable resource
+A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+
+A2. Metadata are accessible, even when the data are no longer available
 
 ******************
 
@@ -1193,6 +1278,8 @@ F4. (Meta)data are registered or indexed in a searchable resource
 
 {{4-5}}
 **********************
+The data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.
+
 I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
 
 I2. (Meta)data use vocabularies that follow FAIR principles
@@ -1206,6 +1293,8 @@ I3. (Meta)data include qualified references to other (meta)data
 
 {{5-6}}
 ***************
+The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.
+
 R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
 
 R1.1. (Meta)data are released with a clear and accessible data usage license
@@ -1216,9 +1305,37 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 **************
 
+<div style="page-break-after: always;"></div>
+
+### Snafu Video
+
+Movie time!
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+{{1}}
+****************
+
+> **Group work**:
+>![image](images/kurzberichte.png)<!--
+style="width: 20%; max-width: 800px; float:right"
+title="working"
+onclick="alert('Group work');"-->
+>Your will be asigned to group F, A, I or R.
+>
+>Please discuss in your group what aspects, problems & solutions have been touched by the video regarding F(indability), A(ccessibility), I(nteroperability) and R(eusablity) of data.
+>
+>Use the Miro-Board to take notes.
+
+****************
+
 ### How FAIR is your data?
 
->__Individual work or group work for people working on the same project__
+>__Let´s discuss!__
 >![image](images/working.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="working"
@@ -1230,30 +1347,140 @@ onclick="alert('Individual work');"
 >- Where do you (or all of us) need to improve?
 >- What do you need in order to comply with the FAIR principles?
 
+<div style="page-break-after: always;"></div>
 
 ### Open X
-___Open Access___
+
+* Open Science
+
+* Open Access
+
+* Open Data
+
+* Open Educational Resources
+
+* Open Source Research Software
+
+* Open Methodology
+
+* Citizen Science
+
+* ...
+
+
+<div style="page-break-after: always;"></div>
+
+#### Open Access
+
+>"Open access is the term given to access granted to research publications and other materials online free of charge. A research document published under open access conditions may be read, downloaded, saved, linked to, printed and used by anybody at no cost." (https://www.dfg.de/en/research_funding/programmes/infrastructure/lis/open_access/what_is_open_access/index.html)
+
+-----
+
+Open access is often represented with the help of an open lock.
+
+
+![Open Access](images\access.png)<!--  width="80px" align="right"
+-->
+
+-----
 
 - Distribution of research output online, __freely available__ for everyone
 
-  - [Panton Principles](https://pantonprinciples.org/index.html): __no restrictions__ for use und republication
+  - __no restrictions__ for use und republication
 
   - In practice: __attribution__ to the original author or creator
 
-    - Attribution stacking
-
 - Formerly only open publication of journal articles, papers, etc.
 
-- Part of __Open Science__
+<div style="page-break-after: always;"></div>
 
-  - Like Open Educational Resources, Open Source Research Software, Open Methodology, Citizen Science
+#### Open Data
+
+>"Open data are data that have been made available for free use, re-use and dissemination. They can comprise any kind of data from learning materials to geographical data, statistics, traffic data, academic publications, medical data, radio and tv broadcasts.
+>
+>In oder to mark data as "open", different choices of license are available. Data with restrictive licences, which limit use by prohibiting derivatives or commercial use, do not strictly count as "open data" even though they can certainly improve the academic exchange of ideas." (https://forschungsdaten.info/praxis-kompakt/english-pages/open-data-open-access-and-re-using-data/)
+
+-----
+
 - Open Data
 
   - Publication of data without legal or technical restrictions
+  - for use, re-use and dissemination
   - __Indispensable__ for data science
   - Generic __non-proprietary__ formats
-  - __Metadata__
-  - __FAIR?__
+  - different types of data as well as __Metadata__
+
+-----
+
+__FAIR?__
+
+-----
+
+<div style="page-break-after: always;"></div>
+
+
+### Licenses
+{{0-1}}
+*******************
+- Licenses regulate conditions of subsequent use of published data.
+- Free licenses allow the use, redistribution and modification of copyrighted works
+
+  - are usually available for free use and only need to be linked to
+  - Prerequisite is that you are the copyright holder
+
+
+Selection of the license depends on the type of data:
+
+  - e.g. Creative Commons (CC) licenses for articles, monographs, images, etc.
+
+  - Open-Database-License (ODbL) for DB or CC starting with version 4
+
+  - General Public License (GNU) for software
+
+- If no license is granted, the stricter copyright applies, as far as applicable to data
+
+***********
+
+<div style="page-break-after: always;"></div>
+
+{{1-2}}
+******************
+> **CC-Licenses**
+
+><div style="width:100%;">
+  <img src="images/cc-licenses.png" alt="CC-Licenses">
+</div>
+
+
+*********************
+
+<div style="page-break-after: always;"></div>
+
+{{2-3}}
+******************
+> **ODC-Licenses**
+
+<div style="width:100%;">
+  <img src="images/odc-licences.png" alt="odc-licences.png">
+</div>
+
+*********************
+
+<div style="page-break-after: always;"></div>
+
+{{3-4}}
+************
+**Take care!**
+
+>$$
+no\,license
+\not =
+free\,license
+$$
+
+********************
+
+<div style="page-break-after: always;"></div>
 
 
 ## Data publication
@@ -1273,13 +1500,13 @@ ___Open Access___
 
 Example:
 
-![image](images/Example_R-R-Article.jpg)<!--
-style="width: 80%; max-width: 800px"
-title="Example"
-onclick="alert('Source: \https://doi.pangaea.de/10.1594/PANGAEA.925015');"
--->
+<div style="width:100%;">
+  <img src="images/Example_R-R-Article.jpg" alt="Example R-R-Article">
+</div>
 
 **********************
+
+<div style="page-break-after: always;"></div>
 
 {{1}}
 ********************
@@ -1289,31 +1516,37 @@ onclick="alert('Source: \https://doi.pangaea.de/10.1594/PANGAEA.925015');"
 {{3-4}}
 ********************
 
-- disziplinspezifische Repositorien, z. B. Datorium, Pangaea
+* Discipline-specific repositories, e.g. [Datorium](https://data.gesis.org/sharing/#!Home), [Pangaea](https://www.pangaea.de/)
 
-- disziplinübergreifende Repositorien, z. B. ZENODO
+* cross-disciplinary repositories, e.g. [ZENODO](https://zenodo.org/)
 
-- institutionelle Repositorien, z. B. Refubium, edoc
+* institutional repositories, e.g. [Refubium](https://www.fu-berlin.de/sites/open_access/refubium/index.html), [opendata@uni-kiel.de](https://opendata.uni-kiel.de/content/index.xml)
 
 Example:
 
 <div style="float:left; width:45%;">
-![image](images/Example_Pangaea.jpg "Source: https://www.pangaea.de/, Zugriff 10.02.2021")
+<img src="images/Example_Pangaea.jpg" alt="Example R-R-Article">
+<sub>Source: https://www.pangaea.de/, Zugriff 10.02.2021</sub>
 
 </div>
 
 <div style="float:right; width:45%;">
 
-![image](images/Example_Zenodo.jpg "Quelle: https://zenodo.org/, Zugriff 10.02.2021")
+<div style="width:100%;">
+  <img src="images/Example_Zenodo.jpg" alt="Example Zenodo">
+  <sub>Source: https://zenodo.org/, Zugriff 10.02.2021</sub>
+</div>
 
 </div>
 
 *********************
 
+<div style="page-break-after: always;"></div>
 
 {{1}}
 ********************
 > Data journals
+
 ********************
 
 {{4-5}}
@@ -1326,17 +1559,23 @@ Example:
 Example:
 
 <div style="float:left; width:45%;">
-![image](images/example-ESSdata.png "Quelle: https://www.earth-system-science-data.net, Zugriff 10.02.2021")
+<img src="images/example-ESSdata.png" alt="Example Data journal">
+<sub>Source: https://www.earth-system-science-data.net, Zugriff 10.02.2021</sub>
 
 </div>
 
 <div style="float:right; width:45%;">
 
-![image](images/example-datainbrief.png "Quelle: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021")
+<div style="width:100%;">
+  <img src="images/example-datainbrief.png" alt="Example Data journal">
+  <sub>Source: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021</sub>
+</div>
 
 </div>
 
 ***************************
+
+<div style="page-break-after: always;"></div>
 
 ### Repositories
 {{0-2}}
@@ -1344,13 +1583,15 @@ Example:
 
 {{1-2}}
 ****************
->*"A repository (Latin repositorium, 'storehouse') is a managed place for storing ordered documents that are accessible to the public or to a restricted group of users.An archive (Latin archivum, file cabinet'), on the other hand, manages only historical documents.“*
+>*"A repository (Latin repositorium, 'storehouse') is a managed place for storing ordered documents that are accessible to the public or to a restricted group of users. An archive (Latin archivum, file cabinet'), on the other hand, manages only historical documents.“*
 >
 >*"Digital research data repositories are information infrastructures that store and organize digital research data...as permanently as possible...to ensure the discoverability and accessibility of the data...“*
 >
 >^Source: Esther Asef, Katarzyna Biernacka, Elisabeth Böker,Sarah Ann Danker, Juliane Jacob, Janna Neumann, Britta Petersen, Jessica Rex und Ute Trautwein-Bruns (2021): Data Sharing interaktiv vermitteln^
 
 ************************
+
+<div style="page-break-after: always;"></div>
 
 {{2-5}}
 **How to find a repository**
@@ -1370,12 +1611,14 @@ Example:
 </div>
 
 <div style="float:right; width:45%;">
-
-![image](images/re3data.jpg "Quelle: re3data About. http://service.re3data.org/about. Zugriff 10.02.2021")
-
+<img src="images/re3data.jpg" alt="re3data">
+<sub>Source: re3data About. http://service.re3data.org/about. Zugriff 10.02.2021</sub>
 </div>
 
 ***************
+
+
+<div style="page-break-after: always;"></div>
 
 {{4-5}}
 *************
@@ -1393,76 +1636,45 @@ Example:
 </div>
 
 <div style="float:right; width:45%;">
-
-![image](images/RIsourcesDFG.jpg "Quelle: http://risources.dfg.de/index.html#q=*&sort=RI_SORT_DE%20asc&rows=10&RI_EXT=Y. Zugriff 10.02.2021")
-
+<img src="images/RIsourcesDFG.jpg" alt="re3data">
+<sub>Source: http://risources.dfg.de/index.html#q=*&sort=RI_SORT_DE%20asc&rows=10&RI_EXT=Y. Zugriff 10.02.2021</sub>
 </div>
 
 ************
 
+<div style="page-break-after: always;"></div>
+
 {{5}}
 **************
 
+<div style="float:right; width:10%;">
+<img src="images/working.png" alt="re3data">
+</div>
+
+<div style="float:left; width:80%;">
 >__Individual work__
->![image](images/working.png)<!--
-style="width: 15%; max-width: 400px; float:right"
-title="working"
-onclick="alert('Individual work');"
--->
 > Search **re3data.org** for a repository that is appropriate for your data.
 >
 >Let us discuss your search and selection.
 
+</div>
+
 *****************
 
-### Licences
-{{0-1}}
-*******************
-- Licenses regulate conditions of subsequent use of published data.
-- Free licenses allow the use, redistribution and modification of copyrighted works
-
-  - are usually available for free use and only need to be linked to
-  - Prerequisite is that you are the copyright holder
+<div style="page-break-after: always;"></div>
 
 
-Selection of the license depends on the type of data:
+## BREAK
 
-  - e.g. Creative Commons (CC) licenses for articles, monographs, images, etc.
+<center>
 
-  - Open-Database-License (ODbL) for DB or CC starting with version 4
+**Have a break!**
 
-  - General Public Licence (GNU) for software
+![Breaktime](images/break.png)
 
-- If no license is granted, the stricter copyright applies, as far as applicable to data
+</center>
 
-***********
-{{1-2}}
-******************
-> CC-Licenses
-
-![CC_Licenses](images/CC-Licenses.jpg) <!-- width="500px" -->
-
-*********************
-
-{{2-3}}
-******************
-> ODC-Licenses
-
-![CC_Licenses](images/odc-licences.png) <!-- width="500px" -->
-
-*********************
-
-{{3-4}}
-************
-**Take care!**
-
->$$
-no\,license
-\not =
-free\,license
-$$
-
-********************
+<div style="page-break-after: always;"></div>
 
 ## Data management plan (DMP)
 
@@ -1477,6 +1689,8 @@ $$
 ^[1] J. Ludwig, H. Enke (Hrsg.) Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013.^
 
 ***********
+
+<div style="page-break-after: always;"></div>
 
 > Components of a DMP
 
@@ -1500,8 +1714,9 @@ $$
 
 Length can vary from a few paragraphs to several pages!
 
-
 *********
+
+<div style="page-break-after: always;"></div>
 
 ### Sketching out a DMP
 
@@ -1519,10 +1734,13 @@ onclick="alert('Individual work');"
 > * What information do you already have?
 > * What information is missing to fill the template?
 
+<div style="page-break-after: always;"></div>
+
 ## RDM related organisations & funder requirements
 
 {{0-1}}
 ************
+
 >**Research Data Alliance**
 
 >**Nationale Forschungsdateninfrastruktur (NFDI)**
@@ -1532,6 +1750,8 @@ onclick="alert('Individual work');"
 > **Horizon 2020 & Horizon Europe**
 
 ************
+
+<div style="page-break-after: always;"></div>
 
 {{1-2}}
 ************
@@ -1558,14 +1778,14 @@ onclick="alert('Individual work');"
 
 </div>
 
-<div style="float:right; width:20%;">
-
-![image](images/RDA.png)
-
+<div style="float:right; width:30%">
+  <img src="images/RDA.png" alt="rda logo">
 </div>
 
-
 *****************
+
+<div style="page-break-after: always;"></div>
+
 
 {{2-3}}
 ************
@@ -1596,13 +1816,13 @@ onclick="alert('Individual work');"
 
 </div>
 
-<div style="float:right; width:20%;">
-
-![image](images/nfdi.png)
-
+<div style="float:right; width:30%">
+  <img src="images/nfdi.png" alt="nfdi logo">
 </div>
 
 ********************
+
+<div style="page-break-after: always;"></div>
 
 {{3-4}}
 ************
@@ -1621,7 +1841,7 @@ onclick="alert('Individual work');"
 
   - Disclosing of origin of data, organisms, materials and software used
   - Reuse of data is clearly indicated; original sources are cited
-  - Description of nature and  scope of research data generated
+  - Description of nature and scope of research data generated
   - Handling of research data in accordance with requirements of relevant subject area
 
 - Guideline 13 – Public access
@@ -1633,14 +1853,13 @@ onclick="alert('Individual work');"
 
 </div>
 
-<div style="float:right; width:20%;">
-
-![image](images/DFG.png)
-
+<div style="float:right; width:30%">
+  <img src="images/DFG.png" alt="nfdi logo">
 </div>
 
-
 *****************
+
+<div style="page-break-after: always;"></div>
 
 {{4-5}}
 ************
@@ -1654,48 +1873,43 @@ onclick="alert('Individual work');"
 
 <div style="float:left; width:60%;">
 
-* Framework Programme for Research and Technological Development of the European Comission
- 
- * [Horizon 2020 Online Manual – Data Management](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+- Framework Programme for Research and Technological Development of the European Commission:
 
- * [Horizon Europe – Programme Guide – Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf#page=38)
+- [Horizon 2020 Online Manual – Data Management](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
 
- * [Horizon Europe – Data Management Plan Template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx)
+- [Horizon Europe – Programme Guide – Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf#page=38)
 
-    
-* Open access to research data is applicable by default
+- [Horizon Europe – Data Management Plan Template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx)
 
- * as open as possible, as closed as necessary
-    
-* Make research data findable, accessible, interoperable and re-usable (FAIR)
-    
-* DMP should include information on:
+- Open access to research data is applicable by default
 
- * The handling of research data during & after the end of the project
+  - as open as possible, as closed as necessary
 
- * What data will be collected, processed and/or generated
+- Make research data findable, accessible, interoperable and re-usable (FAIR)
 
- * Which methodology & standards will be applied
+- DMP should include information on:
 
- * Whether data will be shared/made open access and
+  - The handling of research data during & after the end of the project
 
- * How data will be curated & preserved (including after the end of the project)
+  - What data will be collected, processed and/or generated
 
-  </div>
+  - Which methodology & standards will be applied
 
-  <div style="float:right; width:20%;">
+  - Whether data will be shared/made open access and
 
-  ![image](images/European-Commission-logo.png)
+  - How data will be curated & preserved (including after the end of the project)
 
+</div>
+
+  <div style="float:right; width:30%">
+    <img src="images/European-Commission-logo.png" alt="nfdi logo">
   </div>
 
 ******************
 
+<div style="page-break-after: always;"></div>
 
 ## RDM @ CAU
-
-
-
 {{0-1}}
 ************
 >__Individual work__
@@ -1714,6 +1928,8 @@ onclick="alert('Individual work');"
 >Who are the contact persons at CAU and/or your institute if you have questions about handling your digital research data?
 
 *************
+
+<div style="page-break-after: always;"></div>
 
 {{1-2}}
 ***********
@@ -1762,6 +1978,8 @@ Principle 3
 - Kiel University recommends and assists with anchoring the significance of subject-specific, structured research data management in teaching by the particular subject areas
 
 ************
+
+<div style="page-break-after: always;"></div>
 
 ## Take-Away Messages
 
@@ -1828,7 +2046,7 @@ Principle 3
 >
 >    - [European Open Science Cloud Services](https://marketplace.eosc-portal.eu/services/c/sharing-discovery)
 >
->  - Institutional Data Repository (work in progress)
+>  - Institutional Data Repository: [opendata@uni-kiel](https://opendata.uni-kiel.de/)
 >
 >  - Generic Repositories
 >
@@ -1846,6 +2064,8 @@ Principle 3
 
 **********
 
+<div style="page-break-after: always;"></div>
+
 ## Questions
 
 >**Nearly done!**
@@ -1857,10 +2077,12 @@ onclick="alert('Questions?');"
 >
 >Time for open questions!
 
+<div style="page-break-after: always;"></div>
+
 ## One Minute Paper
 
 >  __Individual work__
->![image](images/working.png)<!--
+>![image](images/working.png) <!--
 style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Individual work');"
@@ -1871,6 +2093,8 @@ onclick="alert('Individual work');"
 >You have one minute.
 >
 >Please write down the most important points of our workshop today.
+
+<div style="page-break-after: always;"></div>
 
 ## Feedback
 
@@ -1884,14 +2108,20 @@ onclick="alert('Individual work');"
 >
 > | :-)  | :-/  | :-(  |
 
+<div style="page-break-after: always;"></div>
 
 ## CAU contacts
 
-![Bild](images/rdmCAU.png) <!-- width="250px" align="right" -->
+
+<div style="float:right; width:40%">
+  <img src="images/rdmCAU.png" alt="rdmCAU">
+</div>
 
 **RDM contacts at CAU**:
 
 https://www.fdm.uni-kiel.de/de/team
+
+<div style="page-break-after: always;"></div>
 
 ## Thank you!
 
